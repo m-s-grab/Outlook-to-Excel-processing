@@ -22,24 +22,26 @@ The script performs the following operations:
 ## Folder structure
 
 ```
-Data
+
+├── Readme.md
 ├── 1. Choosing files location.py
 ├── 2. Downloading_from_Outlook.py
 ├── 3. Processing_Excel_files.py
-├── Sample Supplier Database.xlsm
-├── config.json                     # created by "1. Choosing files location.py"
-├── log.txt                         # created after using the script
-└── Data/
-    ├── To_process/
-    │   ├── Sup1.xlsx
-    │   ├── Sup1.msg
-    │   ├── Sup2.xlsx
-    │   └── ...
-    ├── Processed/
-    │   └── Processed_msg/
-    ├── Invalid_files/
-    │   ├── 0.Invalid.xlsx
-    └── tmp/
+├── Data
+    ├── Sample Supplier Database.xlsm
+    ├── config.json                     # created by "1. Choosing files location.py"
+    ├── log.txt                         # created after using the script
+    └── Data/
+        ├── To_process/
+        │   ├── Sup1.xlsx
+        │   ├── Sup1.msg
+        │   ├── Sup2.xlsx
+        │   └── ...
+        ├── Processed/
+        │   └── Processed_msg/
+        ├── Invalid_files/
+        │   ├── 0.Invalid.xlsx
+        └── tmp/
 ```
 
 ---
