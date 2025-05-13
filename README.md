@@ -23,7 +23,7 @@ The script performs the following operations:
 
 ```
 
-├── Readme.md
+├── README.md
 ├── 1. Choosing files location.py
 ├── 2. Downloading_from_Outlook.py
 ├── 3. Processing_Excel_files.py
